@@ -1,12 +1,6 @@
 package firstjava;
 import java.util.Random;
 import java.util.Scanner;
-
-import java.util.Random;
-import java.util.Scanner;
-
-
-
 class Employee {
     private String firstName;
     private String lastName;
